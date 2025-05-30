@@ -1,7 +1,7 @@
 Este projeto é uma aplicação frontend construída com React que se conecta à API Node.js com Prisma e MongoDB, permitindo o cadastro e listagem de usuários em uma única página.
 
 ✨ Funcionalidades
-📝 Formulário de cadastro de usuários
+📝 Cadastro de usuários
 
 📋 Listagem em tempo real dos usuários cadastrados
 
